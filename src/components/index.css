@@ -1,0 +1,54 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+}
+.addItem-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #000000;
+  height: 300px;
+  width: 400px;
+  padding: 10px;
+  margin: 20px;
+}
+#name {
+  width: 50%;
+  margin-bottom: 10px;
+}
+#calories {
+  width: 50%;
+  margin-bottom: 10px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.button {
+  height: 18px;
+  width: 60px;
+  background-color: blueviolet;
+  color: #ffffff;
+}
+.fridge-container {
+  height: 300px;
+  width: 400px;
+  padding: 10px;
+  border: 1px solid #000000;
+  margin: 20px;
+}
+.button2 {
+  height: 18px;
+  width: 80px;
+  background-color: blueviolet;
+  color: #ffffff;
+  align-self: center;
+}
+table {
+  border: 1px solid black;
+}
+th {
+  border: 1px solid black;
+}
+td {
+  border: 1px solid black;
+}
